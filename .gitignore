@@ -1,0 +1,40 @@
+# Unreal generated folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Packaged builds and archives (share builds via a download link)
+*.zip
+*.rar
+*.7z
+*.exe
+*.pak
+
+# Third-party models, animations and sounds are not redistributed
+/Content/ThirdPerson/Blueprints/Environment/
+/Content/ThirdPerson/Blueprints/Models/
+/Content/ThirdPerson/Blueprints/Sounds/
+/Content/ThirdPerson/Blueprints/animation/
+/Content/ThirdPerson/Blender_Character/
+/Content/Characters/
+/Content/Modular_Rural_Cabin/
+/Content/WastelandWarrior/
+/Content/Stylized_Forest/
+/Content/Synty/
+/Content/MonsterForSurvivalGame/
+/Content/CuteCreature/
+/Content/LevelPrototyping/
+
+# OS
+.DS_Store
+Thumbs.db

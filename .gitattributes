@@ -1,0 +1,12 @@
+# Unreal assets are binary
+*.uasset binary
+*.umap binary
+*.upk binary
+*.udk binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.fbx binary
+*.ini text eol=lf
+*.uproject text eol=lf
+*.md text eol=lf
